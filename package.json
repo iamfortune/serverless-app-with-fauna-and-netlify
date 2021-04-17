@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@reach/dialog": "^0.15.0",
+    "@reach/tabs": "^0.15.0",
+    "@reach/visually-hidden": "^0.15.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "dotenv": "^8.2.0",
+    "gatsby": "^3.3.0",
+    "gatsby-plugin-netlify": "^3.3.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.2",
+    "react-netlify-identity-widget": "^0.2.7",
+    "react-stars": "^2.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "gatsby develop"
+  },
+  "name": "faunareviews",
+  "version": "1.0.0",
+  "description": "a fauna review website ",
+  "main": "gatsby-config.js",
+  "devDependencies": {},
+  "author": "Fortune Ikechi",
+  "license": "ISC"
+}
